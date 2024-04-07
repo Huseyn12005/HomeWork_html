@@ -100,7 +100,6 @@ a{
 
 #button3{
     color: white!important;
-    display: flex;
     background-color: rgb(46, 46, 255);
     padding: 10px 30px;
     border-radius: 10px;
@@ -113,7 +112,6 @@ a{
 
 #button2{
     color: white!important;
-    display: flex;
     background-color: rgb(46, 46, 255);
     padding: 10px 30px;
     border-radius: 10px;
@@ -131,11 +129,8 @@ a{
 }
 
 .buttondiv2{
+    display: flex;
+    gap: 20px;
     padding: 10px 0px;
 
-}
-
-.buttondiv3{
-    padding: 10px 0px;
-    
 }
