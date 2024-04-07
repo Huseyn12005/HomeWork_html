@@ -82,3 +82,60 @@ a{
 .buttondiv{
     padding: 10px 0px;
 }
+
+.border2{
+
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    gap: 10px;
+    max-width: 800px;
+    width: 100%;
+
+}
+
+.texts2{
+    
+    padding: 50px;
+}
+
+#button3{
+    color: white!important;
+    display: flex;
+    background-color: rgb(46, 46, 255);
+    padding: 10px 30px;
+    border-radius: 10px;
+    width: fit-content;
+
+    
+
+
+}
+
+#button2{
+    color: white!important;
+    display: flex;
+    background-color: rgb(46, 46, 255);
+    padding: 10px 30px;
+    border-radius: 10px;
+    width: fit-content;
+    
+
+
+}
+
+
+.logo2{
+    width: 300px;
+
+
+}
+
+.buttondiv2{
+    padding: 10px 0px;
+
+}
+
+.buttondiv3{
+    padding: 10px 0px;
+    
+}
