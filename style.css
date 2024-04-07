@@ -48,7 +48,7 @@ a{
 
 .border{
 
-    background-color: rgb(228, 219, 219);
+    background-color: #F6F6F6;
     display: flex;
     gap: 10px;
     max-width: 800px;
