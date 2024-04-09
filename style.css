@@ -76,13 +76,12 @@ a{
     flex-direction: column;
     padding: 50px;
     gap:15px;
-<<<<<<< HEAD
-=======
+
+
 }
 
 #h2{
     font-size: 35px;
->>>>>>> 7eb2690f61cacee177f2cc84a884901b1d771a6d
 }
 
 #button1{
@@ -118,21 +117,14 @@ a{
 }
 
 .texts2{
-<<<<<<< HEAD
-=======
-    
->>>>>>> 7eb2690f61cacee177f2cc84a884901b1d771a6d
     display: flex;
     flex-direction: column;
     padding: 50px;
     gap:15px;
-<<<<<<< HEAD
 }
 
 #h2{
     font-size: 35px;
-=======
->>>>>>> 7eb2690f61cacee177f2cc84a884901b1d771a6d
 }
 
 #button3{
@@ -171,8 +163,6 @@ a{
     padding: 10px 0px;
 
 }
-<<<<<<< HEAD
-
 
 .section3{
 
@@ -606,6 +596,3 @@ a{
     font-weight: 500;
     margin-left: -50px;
 }
-
-=======
->>>>>>> 7eb2690f61cacee177f2cc84a884901b1d771a6d
